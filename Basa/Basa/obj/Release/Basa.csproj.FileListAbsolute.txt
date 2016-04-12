@@ -1,0 +1,10 @@
+J:\StudiCsharp\Basa\Basa\bin\Release\Basa.exe.config
+J:\StudiCsharp\Basa\Basa\bin\Release\Basa.exe
+J:\StudiCsharp\Basa\Basa\bin\Release\Basa.pdb
+J:\StudiCsharp\Basa\Basa\obj\Release\Basa.Form1.resources
+J:\StudiCsharp\Basa\Basa\obj\Release\Basa.Properties.Resources.resources
+J:\StudiCsharp\Basa\Basa\obj\Release\Basa.csproj.GenerateResource.Cache
+J:\StudiCsharp\Basa\Basa\obj\Release\Basa.exe
+J:\StudiCsharp\Basa\Basa\obj\Release\Basa.pdb
+J:\StudiCsharp\Basa\Basa\bin\Release\Basa.exe.CodeAnalysisLog.xml
+J:\StudiCsharp\Basa\Basa\bin\Release\Basa.exe.lastcodeanalysissucceeded

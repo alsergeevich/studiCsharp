@@ -1,0 +1,9 @@
+J:\StudiCsharp\Basa\Basa\bin\Debug\Basa.exe.config
+J:\StudiCsharp\Basa\Basa\bin\Debug\Basa.exe
+J:\StudiCsharp\Basa\Basa\bin\Debug\Basa.pdb
+J:\StudiCsharp\Basa\Basa\obj\Debug\Basa.csprojResolveAssemblyReference.cache
+J:\StudiCsharp\Basa\Basa\obj\Debug\Basa.Form1.resources
+J:\StudiCsharp\Basa\Basa\obj\Debug\Basa.Properties.Resources.resources
+J:\StudiCsharp\Basa\Basa\obj\Debug\Basa.csproj.GenerateResource.Cache
+J:\StudiCsharp\Basa\Basa\obj\Debug\Basa.exe
+J:\StudiCsharp\Basa\Basa\obj\Debug\Basa.pdb
